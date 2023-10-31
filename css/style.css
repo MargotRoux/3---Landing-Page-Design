@@ -1,0 +1,25 @@
+@import url("components/cards.css");
+@import url("components/banner.css");
+@import url("components/footer.css");
+
+body {
+  margin: 0;
+  font-family: Open Sans;
+}
+
+h1, h2, h3 {
+  font-family: Poppins;
+}
+
+a {
+  text-decoration: none;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+}

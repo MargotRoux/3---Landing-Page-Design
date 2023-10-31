@@ -1,0 +1,24 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  height: 400;
+  padding-top: 200;
+}
+
+h1 {
+  color:#fff;
+  font-size: 40px;
+}
+#title-container {
+  color:#fff;
+  font-size: 20px;
+}
+.btn-primary {
+  border-radius: 30px;
+  display: inline-block;
+  background-color: #ffbe0b;
+  padding: 16px 36px;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
